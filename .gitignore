@@ -1,0 +1,22 @@
+*.idea
+*.class
+# Package Files #
+*.war
+*.ear
+*.ipr
+*.iws
+*.ids
+*.iml
+.settings/
+.classpath
+.project
+.DS_Store
+.data/
+data/
+jrat.output/*
+jrat.xml
+._.DS_Store
+._*
+target/
+topicModel/
+lda-serving/src/test/resources/
